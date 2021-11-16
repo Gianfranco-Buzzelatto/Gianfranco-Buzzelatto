@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 style='color: red'> Hi 😁, my name is Gianfranco Buzzelatto and i'm a developer web 💻</h1>
 
-<!--
-**Gianfranco-Buzzelatto/Gianfranco-Buzzelatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently looking for my first opportunity in IT as a programmer
+- 🌱 I am currently pursuing university studies at the UBA, Faculty of Engineering, Lic. Systems Analyst
+-🧭 In my free time I like to program and do sports
+- 📫 How to contact me: via linkedin or mail (https://www.linkedin.com/in/gianfranco-joel-buzzelatto-a0827a163/, Gianbuzzelatto@gmail.com
+- 😄 Pronouns: Gianf
+<br>
+<h3>My level is junior but i'm feel comfortable working with programs like:</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+  <li>Javascript</li>
+  <li>NodeJS</li>
+  <li>MySql</li>
+  <li>MongoDB</li>
+  <li>React</li>
+  <li>Angular</li>
+  <li>Vue</li>
+</ul>
 
-Here are some ideas to get you started:
+<h4>I am also in the learning stage in languages such as:<h4>
+  <li>Java</li>
+  <li>Python</li>
+<h4>And frameworks:<h4>
+  <li>Spring</li>
+  <li>Django</li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
