@@ -21,9 +21,7 @@
 </ul>
 
 <h4>I am also in the learning stage in languages such as:<h4>
-  <li>Java</li>
   <li>Python</li>
 <h4>And frameworks:<h4>
-  <li>Spring</li>
-  <li>Django</li>
+  <li>Django, for using in the backend and realy a Rest-API </li>
 
